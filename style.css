@@ -26,3 +26,6 @@ li{
 .bl{
     margin: 0 8px;
 }
+button,a{
+    margin: 10px 0 ;
+}
